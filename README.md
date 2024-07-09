@@ -12,18 +12,22 @@ A user-friendly currency converter application built with React. It allows users
 ## Getting Started
 ### Installation
 1. Clone the repository:
+
     ```bash
     git clone https://github.com/Hareem-Gohar/Currency-Converter.git
     ```
 2. Navigate to the project directory:
+
     ```bash
     cd currency-converter-app
     ```
 3. Install the dependencies:
+
     ```bash
     npm install
     ```
 4. Start the development server:
+
     ```bash
     npm run dev
     ```
